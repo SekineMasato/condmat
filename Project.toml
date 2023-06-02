@@ -1,0 +1,9 @@
+name = "My"
+uuid = "da518070-ebf9-48c7-92a0-c8ca5270612a"
+authors = ["sekine "]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+
